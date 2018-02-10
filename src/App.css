@@ -3,8 +3,8 @@
 }
 
 .App-header {
-  background-color: #222;
-  padding: 10px;
+  background-color: #d31145;
+  padding: 1px 0;
   color: white;
   letter-spacing: 1px;
 }
@@ -13,6 +13,20 @@
   font-size: 2em;
 }
 
-.App-intro {
-  font-size: large;
+button {
+  font-size: 4em;
+  background-color: lightgray
+}
+
+button.selected {
+  background-color: lightgreen
+}
+
+li {
+  display: inline;
+  font-size: 4em;
+}
+
+a {
+  text-decoration: none;
 }
