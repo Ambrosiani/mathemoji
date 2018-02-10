@@ -1,73 +1,277 @@
-{
-  "🍇": "vindruvor röda",
-  "🍈": "melon",
-  "🍉": "vattenmelon",
-  "🍊": "mandarin",
-  "🍋": "citron",
-  "🍌": "banan",
-  "🍍": "ananas",
-  "🍎": "äpple royal gala",
-  "🍏": "äpple granny smith",
-  "🍐": "päron",
-  "🍑": "persika",
-  "🍒": "körsbär",
-  "🍓": "jordgubbar",
-  "🥝": "kiwi",
-  "🍅": "tomater",
-  "🥥": "kokosnöt",
-  "🥑": "avocado",
-  "🍆": "aubergine",
-  "🥔": "potatis",
-  "🥕": "morot",
-  "🌽": "majskolv",
-  "🌶": "chilipeppar",
-  "🥒": "gurka",
-  "🥦": "broccoli",
-  "🍄": "champinjon",
-  "🥜": "jordnötter",
-  "🌰": "vattenkastanjer",
-  "🍞": "durum levain",
-  "🥐": "croissant",
-  "🥖": "baguette",
-  "🥨": "pretzels",
-  "🥞": "pannkakor",
-  "🧀": "herrgård",
-  "🍖": "revben",
-  "🍗": "kycklingben",
-  "🥩": "nötkött fryst",
-  "🥓": "bacon",
-  "🍔": "hamburgare",
-  "🍟": "pommes frites",
-  "🍕": "pizza",
-  "🌭": "varmkorv",
-  "🥪": "smörgåsar färdiga",
-  "🌮": "tacoskal",
-  "🌯": "tortilla",
-  "🥗": "salladsmix",
-  "🍿": "popcorn",
-  "🥫": "soppor färdiga",
-  "🍚": "ris",
-  "🍝": "spaghetti",
-  "🍠": "sötpotatis",
-  "🍣": "sushi meal kit",
-  "🍤": "räkor",
-  "🥟": "dumplings",
-  "🍦": "paketglass",
-  "🍨": "paketglass",
-  "🍩": "donuts",
-  "🍪": "småkakor",
-  "🎂": "prinsesstårta",
-  "🍰": "prinsesstårta",
-  "🥧": "dessertpaj",
-  "🍫": "chokladkaka",
-  "🍬": "lösgodis",
-  "🍭": "lösgodis",
-  "🍮": "Custard",
-  "🍯": "honung",
-  "🍼": "välling",
-  "🥛": "mjölk",
-  "🍵": "te",
-  "🍾": "mousserande",
-  "🍷": "rödvin alkoholfritt",
-  "🍺": "öl",
-}
+[{
+		"key": "🍉",
+		"translation": "vattenmelon"
+	},
+	{
+		"key": "🍊",
+		"translation": "mandarin"
+	},
+	{
+		"key": "🍋",
+		"translation": "citron"
+	},
+	{
+		"key": "🍌",
+		"translation": "banan"
+	},
+	{
+		"key": "🍍",
+		"translation": "ananas"
+	},
+	{
+		"key": "🍎",
+		"translation": "äpple royal gala"
+	},
+	{
+		"key": "🍏",
+		"translation": "äpple granny smith"
+	},
+	{
+		"key": "🍐",
+		"translation": "päron"
+	},
+	{
+		"key": "🍑",
+		"translation": "persika"
+	},
+	{
+		"key": "🍒",
+		"translation": "körsbär"
+	},
+	{
+		"key": "🍓",
+		"translation": "jordgubbar"
+	},
+	{
+		"key": "🥝",
+		"translation": "kiwi"
+	},
+	{
+		"key": "🍅",
+		"translation": "tomater"
+	},
+	{
+		"key": "🥥",
+		"translation": "kokosnöt"
+	},
+	{
+		"key": "🥑",
+		"translation": "avocado"
+	},
+	{
+		"key": "🍆",
+		"translation": "aubergine"
+	},
+	{
+		"key": "🥔",
+		"translation": "potatis"
+	},
+	{
+		"key": "🥕",
+		"translation": "morot"
+	},
+	{
+		"key": "🌽",
+		"translation": "majskolv"
+	},
+	{
+		"key": "🌶",
+		"translation": "chilipeppar"
+	},
+	{
+		"key": "🥒",
+		"translation": "gurka"
+	},
+	{
+		"key": "🥦",
+		"translation": "broccoli"
+	},
+	{
+		"key": "🍄",
+		"translation": "champinjon"
+	},
+	{
+		"key": "🥜",
+		"translation": "jordnötter"
+	},
+	{
+		"key": "🌰",
+		"translation": "vattenkastanjer"
+	},
+	{
+		"key": "🍞",
+		"translation": "durum levain"
+	},
+	{
+		"key": "🥐",
+		"translation": "croissant"
+	},
+	{
+		"key": "🥖",
+		"translation": "baguette"
+	},
+	{
+		"key": "🥨",
+		"translation": "pretzels"
+	},
+	{
+		"key": "🥞",
+		"translation": "pannkakor"
+	},
+	{
+		"key": "🧀",
+		"translation": "herrgård"
+	},
+	{
+		"key": "🍖",
+		"translation": "revben"
+	},
+	{
+		"key": "🍗",
+		"translation": "kycklingben"
+	},
+	{
+		"key": "🥩",
+		"translation": "nötkött fryst"
+	},
+	{
+		"key": "🥓",
+		"translation": "bacon"
+	},
+	{
+		"key": "🍔",
+		"translation": "hamburgare"
+	},
+	{
+		"key": "🍟",
+		"translation": "pommes frites"
+	},
+	{
+		"key": "🍕",
+		"translation": "pizza"
+	},
+	{
+		"key": "🌭",
+		"translation": "varmkorv"
+	},
+	{
+		"key": "🥪",
+		"translation": "smörgåsar färdiga"
+	},
+	{
+		"key": "🌮",
+		"translation": "tacoskal"
+	},
+	{
+		"key": "🌯",
+		"translation": "tortilla"
+	},
+	{
+		"key": "🥗",
+		"translation": "salladsmix"
+	},
+	{
+		"key": "🍿",
+		"translation": "popcorn"
+	},
+	{
+		"key": "🥫",
+		"translation": "soppor färdiga"
+	},
+	{
+		"key": "🍚",
+		"translation": "ris"
+	},
+	{
+		"key": "🍝",
+		"translation": "spaghetti"
+	},
+	{
+		"key": "🍠",
+		"translation": "sötpotatis"
+	},
+	{
+		"key": "🍣",
+		"translation": "sushi meal kit"
+	},
+	{
+		"key": "🍤",
+		"translation": "räkor"
+	},
+	{
+		"key": "🥟",
+		"translation": "dumplings"
+	},
+	{
+		"key": "🍦",
+		"translation": "paketglass"
+	},
+	{
+		"key": "🍨",
+		"translation": "paketglass"
+	},
+	{
+		"key": "🍩",
+		"translation": "donuts"
+	},
+	{
+		"key": "🍪",
+		"translation": "småkakor"
+	},
+	{
+		"key": "🎂",
+		"translation": "prinsesstårta"
+	},
+	{
+		"key": "🍰",
+		"translation": "prinsesstårta"
+	},
+	{
+		"key": "🥧",
+		"translation": "dessertpaj"
+	},
+	{
+		"key": "🍫",
+		"translation": "chokladkaka"
+	},
+	{
+		"key": "🍬",
+		"translation": "lösgodis"
+	},
+	{
+		"key": "🍭",
+		"translation": "lösgodis"
+	},
+	{
+		"key": "🍮",
+		"translation": "Custard"
+	},
+	{
+		"key": "🍯",
+		"translation": "honung"
+	},
+	{
+		"key": "🍼",
+		"translation": "välling"
+	},
+	{
+		"key": "🥛",
+		"translation": "mjölk"
+	},
+	{
+		"key": "🍵",
+		"translation": "te"
+	},
+	{
+		"key": "🍾",
+		"translation": "mousserande"
+	},
+	{
+		"key": "🍷",
+		"translation": "rödvin alkoholfritt"
+	},
+	{
+		"key": "🍺",
+		"translation": "öl"
+	}
+]
